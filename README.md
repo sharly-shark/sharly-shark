@@ -2,7 +2,7 @@
 
 ## Contact me via: 
 [Telegram](https://t.me/sharly_shark)\
-mailto:sharly.sharp@gmail.com
+mailto:sharly.shark@yandex.ru
 
 <!--
 **kseniya-elagina/kseniya-elagina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
