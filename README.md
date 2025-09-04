@@ -5,8 +5,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="30"/>
 </a>
 <a href="mailto:sharly.shark@yandex.ru">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Email" width="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="30"/>
 </a>
+
+
 
 
 <!--
