@@ -4,7 +4,7 @@
 <a href="https://t.me/sharly_shark">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="30"/>
 </a>
-<a href="mailto:sharly.shark@yandex.ru">
+<a href="mailto:sharly.shark@yandex.ru" style="margin-left:10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="30"/>
 </a>
 
