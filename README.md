@@ -1,8 +1,13 @@
 ## Hi there 👋 I'm Kseniya Elagina
 
 ## Contact me via: 
-[Telegram](https://t.me/sharly_shark)\
-mailto:sharly.shark@yandex.ru
+<a href="https://t.me/sharly_shark">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="30"/>
+</a>
+<a href="mailto:sharly.shark@yandex.ru">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Email" width="30"/>
+</a>
+
 
 <!--
 **kseniya-elagina/kseniya-elagina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
