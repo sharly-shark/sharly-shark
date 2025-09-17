@@ -20,8 +20,8 @@
 
 ## 📊 GitHub статистика  
 
-![Ksenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=kseniya-elagina&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kseniya-elagina&layout=compact&theme=tokyonight)
+![Ksenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharly-shark&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharly-shark&layout=compact&theme=tokyonight)
 
 ---
 
