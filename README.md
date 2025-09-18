@@ -19,7 +19,6 @@
 
 ## 📊 GitHub статистика  
 ![Ksenia's GitHub stats](http://github-readme-stats-rho-one-8wbv70yth6.vercel.app/api?username=sharly-shark&show_icons=true&theme=tokyonight)
-
 ![Top Langs](http://github-readme-stats-rho-one-8wbv70yth6.vercel.app/api/top-langs/?username=sharly-shark&theme=tokyonight)
 
 ---
