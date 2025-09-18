@@ -15,13 +15,12 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA5B0F?style=for-the-badge&logo=jupyter&logoColor=white)
 ![DataLens](https://img.shields.io/badge/DataLens-FF6C37?style=for-the-badge&logo=yandex&logoColor=white)
 
-
 ---
 
 ## 📊 GitHub статистика  
+![Ksenia's GitHub stats](http://github-readme-stats-rho-one-8wbv70yth6.vercel.app/api?username=sharly-shark&show_icons=true&theme=tokyonight)
 
-![Ksenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharly-shark&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharly-shark&layout=compact&theme=tokyonight)
+![Top Langs](http://github-readme-stats-rho-one-8wbv70yth6.vercel.app/api/top-langs/?username=sharly-shark&theme=tokyonight)
 
 ---
 
